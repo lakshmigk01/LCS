@@ -18,7 +18,6 @@
 				onError);
 
 		
-
 	};
 
 	app.controller("LCSController", [ "$scope", "$http", LCSController ]);
